@@ -25,5 +25,4 @@
   <a href="https://aws.amazon.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/aws-route53.svg" alt="route53" width="40" height="40"/></a>
   <a href="https://getuikit.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a title="https://study-support-app.jp" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://study-support-app.jp">study-support-app.jp</a>
 </p>
