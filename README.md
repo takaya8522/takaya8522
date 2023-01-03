@@ -1,9 +1,9 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats-ten-woad.vercel.app/api?username=takaya8522&count_private=true&show_icons=true&theme=algolia" />
+    <img height="150" src="https://github-readme-stats-ten-woad.vercel.app/api?username=takaya8522&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats-ten-woad.vercel.app/api/top-langs/?username=takaya8522&layout=compact&theme=algolia" />
+    <img height="150" src="https://github-readme-stats-ten-woad.vercel.app/api/top-langs/?username=takaya8522&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </p>
 <br>
