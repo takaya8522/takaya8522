@@ -32,7 +32,7 @@
 
 [ ![takaya8522](https://komarev.com/ghpvc/?username=takaya8522)
 ](https://github.com/takaya8522/takaya8522/)
-[![](https://img.shields.io/twitter/follow/jackmiwamiwa?label=Twitter&logo=twitter&style=flat)
+[![](https://img.shields.io/twitter/follow/Takaya8522?label=Twitter&logo=twitter&style=flat)
 ](http://twitter.com/Takaya8522)
 [![](https://img.shields.io/github/followers/takaya8522?label=follow&logo=github&style=flat)
 ](https://github.com/takaya8522)
