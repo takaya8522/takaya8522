@@ -1,6 +1,6 @@
-<p>
- <img  width="800" height="400" src="https://rishavanand.github.io/static/images/greetings.gif">
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there!&fontSize=70)
+
+<br>
 
 <h2>Hello there! My name is Takaya Suzuki. 👋</h2>
 
@@ -55,3 +55,7 @@
 [![](https://qiita-badge.apiapi.app/s/tky8522/contributions.svg)
 ](http://qiita.com/tky8522)
 [![]()]()
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer)
