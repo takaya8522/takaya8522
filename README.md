@@ -6,7 +6,7 @@
     <img height="150" src="https://github-readme-stats-ten-woad.vercel.app/api/top-langs/?username=takaya8522&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </p>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://www.linux.org/" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
