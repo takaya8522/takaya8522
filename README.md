@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takaya8522&theme=monokai)
+
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://www.linux.org/" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
@@ -29,6 +33,8 @@
   <a href="https://getuikit.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
+
+<br>
 
 [ ![takaya8522](https://komarev.com/ghpvc/?username=takaya8522)
 ](https://github.com/takaya8522/takaya8522/)
