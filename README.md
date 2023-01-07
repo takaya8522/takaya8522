@@ -2,7 +2,7 @@
 
 <br>
 
-<h2>Hello there! My name is Takaya Suzuki. 👋</h2>
+<h2>My name is Takaya Suzuki. 👋</h2>
 
 <br>
 
