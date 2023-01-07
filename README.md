@@ -7,6 +7,7 @@
   </a>
 </p>
 <br>
+<h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://www.linux.org/" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="html5" width="40" height="40"/></a>
