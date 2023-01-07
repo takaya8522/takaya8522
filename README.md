@@ -42,7 +42,6 @@
 
 <br>
 
-<a href="https://honzaap.github.io/GithubCity/?name=takaya8522&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="40" height="40"/></a>
 [ ![takaya8522](https://komarev.com/ghpvc/?username=takaya8522)
 ](https://github.com/takaya8522/takaya8522/)
 [![](https://img.shields.io/twitter/follow/Takaya8522?label=Twitter&logo=twitter&style=flat)
@@ -54,6 +53,7 @@
 [![](https://qiita-badge.apiapi.app/s/tky8522/contributions.svg)
 ](http://qiita.com/tky8522)
 [![]()]()
+<a href="https://honzaap.github.io/GithubCity/?name=takaya8522&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="20" height="20"/></a>
 
 <br>
 
