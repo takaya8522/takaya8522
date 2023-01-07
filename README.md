@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=170&section=header&text=Hi%20there!&fontSize=40)
 
-<br>
-
 <h2>My name is Takaya Suzuki. 👋</h2>
 
 <br>
