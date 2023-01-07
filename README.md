@@ -29,3 +29,15 @@
   <a href="https://getuikit.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
+
+[ ![takaya8522](https://komarev.com/ghpvc/?username=takaya8522)
+](https://github.com/takaya8522/takaya8522/)
+[![](https://img.shields.io/twitter/follow/jackmiwamiwa?label=Twitter&logo=twitter&style=flat)
+](http://twitter.com/Takaya8522)
+[![](https://img.shields.io/github/followers/takaya8522?label=follow&logo=github&style=flat)
+](https://github.com/takaya8522)
+[![](https://qiita-badge.apiapi.app/s/tky8522/posts.svg)
+](http://qiita.com/tky8522)
+[![](https://qiita-badge.apiapi.app/s/tky8522/contributions.svg)
+](http://qiita.com/tky8522)
+[![]()]()
