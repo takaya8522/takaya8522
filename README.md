@@ -9,7 +9,7 @@
 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takaya8522&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takaya8522&theme=tokyonight)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
