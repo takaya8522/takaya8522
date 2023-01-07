@@ -1,4 +1,6 @@
-
+<p>
+ <img  width="800" height="400" src="https://rishavanand.github.io/static/images/greetings.gif">
+</p>
 
 <h2>Hello there! My name is Takaya Suzuki. 👋</h2>
 
