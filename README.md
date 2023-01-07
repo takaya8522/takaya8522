@@ -1,3 +1,9 @@
+
+
+<h2>Hello there! My name is Takaya Suzuki. 👋</h2>
+
+<br>
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://github-readme-stats-ten-woad.vercel.app/api?username=takaya8522&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
