@@ -32,10 +32,7 @@
   <a href="https://www.postgresql.org" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.docker.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/vscode-icons/file-type-docker2.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://aws.amazon.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/aws.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/aws-ec2.svg" alt="ec2" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/aws-rds.svg" alt="rds" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/aws-s3.svg" alt="s3" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/aws-route53.svg" alt="route53" width="40" height="40"/></a>
+  <a href="https://github.co.jp" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="githubactions" width="40" height="40"/></a>
   <a href="https://getuikit.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
@@ -57,4 +54,4 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer)
+![snake svg](https://github.com/takaya8522/takaya8522/blob/output/github-snake-dark.svg)
