@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=260&section=header&&text=hello%20world%20!&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20Takaya%20Suzuki%20👋&descAlignY=51&descAlign=62)
 
-<h3 align="left">My Github Status:</h3>
+<h3 align="left">My github status:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/?username=takaya8522&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -33,7 +33,7 @@
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Social Media:</h3>
+<h3 align="left">Social media services:</h3>
 
 [ ![takaya8522](https://komarev.com/ghpvc/?username=takaya8522)
 ](https://github.com/takaya8522/takaya8522/)
