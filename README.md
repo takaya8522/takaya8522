@@ -7,9 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" src="https://github-readme-stats-takaya8522.vercel.app/api/top-langs/?username=takaya8522&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-
-<img src="https://github-profile-trophy.vercel.app/?username=takaya8522&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="840" alt="Trophy" align="middle" />
-
+<br><br>
 <img width="705" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
 
 <h3 align="left">Languages and Tools:</h3>
