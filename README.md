@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=260&section=header&&text=hello%20world%20!&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20Takaya%20Suzuki%20👋&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=260&section=header&text=hello%20world%20!&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20Takaya%20Suzuki%20👋&descAlignY=51&descAlign=62)
 
 <h3 align="left">My github status:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
+<img width="710" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -33,11 +33,9 @@
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
 
-<br>
-
 <h3 align="left">Projects:</h3>
 <a href="https://github.com/takaya8522/Study_Support_App" target="_blank">
-  <img src="https://github-readme-stats-takaya8522.vercel.app/api/pin/?username=takaya8522&repo=study_support_app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150" alt="Authentic Pinoy Recipes"/>
+  <img src="https://github-readme-stats-takaya8522.vercel.app/api/pin/?username=takaya8522&repo=study_support_app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="120" alt="Authentic Pinoy Recipes"/>
 </a>
 
 <br>
@@ -59,3 +57,7 @@
 
 
 ![snake svg](https://github.com/takaya8522/takaya8522/blob/output/github-snake-dark.svg)
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=160&section=footer)
