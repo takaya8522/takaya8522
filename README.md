@@ -11,7 +11,7 @@
 <br>
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takaya8522&theme=tokyonight)
+<img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -32,6 +32,15 @@
   <a href="https://getuikit.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
+
+<br>
+
+<h3 align="left">Projects:</h3>
+<a href="https://github.com/takaya8522/Study_Support_App" target="_blank">
+  <img src="https://github-readme-stats-takaya8522.vercel.app/api/pin/?username=takaya8522&repo=study_support_app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150" alt="Authentic Pinoy Recipes"/>
+</a>
+
+<br>
 
 <h3 align="left">Social media services:</h3>
 
