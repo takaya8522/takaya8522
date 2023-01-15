@@ -2,16 +2,16 @@
 
 <h3 align="left">My github status:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats-takaya8522.vercel.app/api/?username=takaya8522&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+  <img height="150" src="https://github-readme-stats-takaya8522.vercel.app/api/?username=takaya8522&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats-takaya8522.vercel.app/api/top-langs/?username=takaya8522&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height="150" src="https://github-readme-stats-takaya8522.vercel.app/api/top-langs/?username=takaya8522&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <br>
 <br>
 
-<img width="795" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
+<img width="705" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
