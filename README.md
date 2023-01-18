@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" src="https://github-readme-stats-takaya8522.vercel.app/api/top-langs/?username=takaya8522&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<br><br>
+
 <img width="705" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,8 +35,6 @@
   <img src="https://github-readme-stats-takaya8522.vercel.app/api/pin/?username=takaya8522&repo=study_support_app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="120" alt="Authentic Pinoy Recipes"/>
 </a>
 
-<br>
-
 <h3 align="left">Social media services:</h3>
 
 [ ![takaya8522](https://komarev.com/ghpvc/?username=takaya8522)
@@ -52,9 +50,6 @@
 [![]()]()
 <a href="https://honzaap.github.io/GithubCity/?name=takaya8522&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="20" height="20"/></a>
 
-
 ![snake svg](https://github.com/takaya8522/takaya8522/blob/output/github-snake-dark.svg)
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=160&section=footer)
