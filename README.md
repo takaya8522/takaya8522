@@ -8,7 +8,7 @@
   <img height="150" src="https://github-readme-stats-takaya8522.vercel.app/api/top-langs/?username=takaya8522&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-<img width="705" src="https://github-readme-activity-graph.cyclic.app/graph?username=takaya8522&theme=high-contrast" />
+<img width="830" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
