@@ -3,7 +3,7 @@
 <img width="855" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p>
   <a href="https://www.linux.org/" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="html5" width="40" height="40"/></a>
@@ -23,7 +23,7 @@
   <a href="https://getbootstrap.com" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Projects:</h3>
+<h4 align="left">Projects:</h4>
 <a href="https://github.com/takaya8522/Study_Support_App" target="_blank">
   <img src="https://github-readme-stats-takaya8522.vercel.app/api/pin/?username=takaya8522&repo=study_support_app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="120" alt="Authentic Pinoy Recipes"/>
 </a>
