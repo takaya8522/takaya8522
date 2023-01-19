@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=260&section=header&text=hello%20world%20!&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20Takaya%20Suzuki%20👋&descAlignY=51&descAlign=62)
 
-<h3 align="left">My github status:</h3>
-
-<img width="830" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img width="855" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 
 <h3 align="left">Languages and Tools:</h3>
