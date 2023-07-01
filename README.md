@@ -27,5 +27,3 @@
 <br>
 
 ![snake svg](https://github.com/takaya8522/takaya8522/blob/output/github-snake-dark.svg)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=160&section=footer)
